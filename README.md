@@ -73,10 +73,10 @@ This project tracks that journey:
 ## 📸 Dashboard Preview
 
 ### Page 1 — Social Media Revenue Overview
-![Page 1 Preview] PAGE1.png
+![Page 1 Preview] https://github.com/lakshmisuvvari/Social-Media-Revenue-Intelligence-2018-2024-AND-COVID-IMPACT./blob/main/PAGE1.png
 
 ### Page 2 — COVID Era Impact
-![Page 2 Preview](screenshots/page2.png)
+![Page 2 Preview]
 
 ---
 
