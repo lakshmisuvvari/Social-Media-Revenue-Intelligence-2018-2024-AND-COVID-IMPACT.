@@ -73,7 +73,7 @@ This project tracks that journey:
 ## 📸 Dashboard Preview
 
 ### Page 1 — Social Media Revenue Overview
-![Page 1 Preview](screenshots/page1.png)
+![Page 1 Preview] PAGE1.png
 
 ### Page 2 — COVID Era Impact
 ![Page 2 Preview](screenshots/page2.png)
