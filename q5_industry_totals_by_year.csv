@@ -1,0 +1,8 @@
+year,covid_flag,total_industry_b,total_ad_revenue_b,avg_mau_million,avg_growth_pct
+2018,Pre-COVID,89.6,85.9,975.0,29.7
+2019,Pre-COVID,115.8,111.0,1087.0,83.0
+2020,COVID,149.6,143.1,1264.0,61.2
+2021,Recovery,212.0,189.2,1403.0,54.8
+2022,Recovery,232.3,204.6,1528.0,26.5
+2023,Post-COVID,276.8,241.8,1651.0,15.0
+2024,Post-COVID,338.4,296.4,1764.0,20.2

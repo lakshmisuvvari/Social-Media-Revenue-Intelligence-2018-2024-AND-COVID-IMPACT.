@@ -1,0 +1,11 @@
+platform,year,revenue_b,yoy_pct,covid_flag
+TikTok,2019,1.0,400.0,Pre-COVID
+TikTok,2020,3.5,250.0,COVID
+TikTok,2021,8.0,128.6,Recovery
+TikTok,2022,18.0,125.0,Recovery
+TikTok,2023,33.0,83.3,Post-COVID
+Snapchat,2021,4.1,64.0,Recovery
+TikTok,2024,53.0,60.6,Post-COVID
+YouTube,2021,42.6,47.9,Recovery
+Snapchat,2020,2.5,46.4,COVID
+YouTube,2020,28.8,45.5,COVID

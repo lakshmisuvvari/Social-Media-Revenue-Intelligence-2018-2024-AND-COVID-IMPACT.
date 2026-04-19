@@ -1,0 +1,5 @@
+platform,year,revenue_b,yoy_pct,covid_flag
+Twitter,2023,3.0,-31.8,Post-COVID
+Twitter,2022,4.4,-13.7,Recovery
+Twitter,2024,2.8,-6.7,Post-COVID
+Facebook,2022,116.6,-1.1,Recovery
