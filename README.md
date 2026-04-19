@@ -76,7 +76,7 @@ This project tracks that journey:
 ![Page 1 Preview] https://github.com/lakshmisuvvari/Social-Media-Revenue-Intelligence-2018-2024-AND-COVID-IMPACT./blob/main/PAGE1.png
 
 ### Page 2 — COVID Era Impact
-![Page 2 Preview]
+![Page 2 Preview]https://github.com/lakshmisuvvari/Social-Media-Revenue-Intelligence-2018-2024-AND-COVID-IMPACT./blob/main/03_load_to_sql.py
 
 ---
 
